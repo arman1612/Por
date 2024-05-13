@@ -1,6 +1,6 @@
 # Portfolio Website
 
-# My Portfolio [Live Link](https://main--ubiquitous-khapse-1fabc0.netlify.app/chartsandmaps)
+# My Portfolio [Live Link](https://master--admirable-croissant-33ba18.netlify.app/resume)
 
 ## Built With
 
